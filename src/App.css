@@ -30,3 +30,9 @@
     transform: rotate(360deg);
   }
 }
+
+.houses {
+position: relative;
+margin-top: 25px
+
+}

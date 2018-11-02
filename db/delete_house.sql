@@ -1,0 +1,1 @@
+DELETE FROM House WHERE id = ${id};
